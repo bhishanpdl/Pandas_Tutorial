@@ -123,7 +123,7 @@ ax.set_xticklabels([l.get_text().split()[-1] for l in ax.get_xticklabels()]) # t
 ```
 
 # datetime strftime
-![](images/datetime_strftime1.png)
-![](images/datetime_strftime2.png)
-![](images/datetime_strftime3.png)
+![](../images/datetime_strftime1.png)
+![](../images/datetime_strftime2.png)
+![](../images/datetime_strftime3.png)
 
