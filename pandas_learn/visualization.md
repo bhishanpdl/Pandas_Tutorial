@@ -392,10 +392,10 @@ plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
 
 # Matplotlib color cmaps
 https://matplotlib.org/gallery/color/colormap_reference.html
-![](images/cmap_diverging.png)
-![](images/cmap_percep_uniform.png)
-![](images/cmap_qualitative.png)
-![](images/cmap_sequential.png)
-![](images/cmap_sequential2.png)
+![](../images/cmap_diverging.png)
+![](../images/cmap_percep_uniform.png)
+![](../images/cmap_qualitative.png)
+![](../images/cmap_sequential.png)
+![](../images/cmap_sequential2.png)
 
 
