@@ -93,6 +93,6 @@ df.sort_values('total_expense').drop('total_expense')
 ```
 
 # pandas string methods
-![](images/df_str_methods1.png)
-![](images/df_str_methods2.png)
+![](../images/df_str_methods1.png)
+![](../images/df_str_methods2.png)
 
