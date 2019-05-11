@@ -44,7 +44,7 @@ names = [fake.name() for _ in range(10)]
 https://mockaroo.com/
 
 # summary
-![](images/create_pandas_dataframe.png)
+![](../images/create_pandas_dataframe.png)
 
 # using numpy
 ```python
