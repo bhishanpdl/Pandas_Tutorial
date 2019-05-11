@@ -16,8 +16,8 @@ Table of Contents
 
 # Comparison from pandas official document
 [pandas vs R](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html)
-![](images/pd_vs_r1.png)
-![](images/pd_vs_r2.png)
+![](../images/pd_vs_r1.png)
+![](../images/pd_vs_r2.png)
 
 # Package Installation
 
